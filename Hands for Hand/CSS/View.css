@@ -1,0 +1,32 @@
+.heading-table{
+    background-color: gray;
+    position: sticky;
+}
+.heading-table p{
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: azure;
+    margin-top: 10px;
+}
+table{
+    width: 100%;
+    margin-bottom: 10px;
+    
+}
+th{
+    background-color: rgb(75, 77, 73);
+    color: white;
+    
+}
+td{
+    text-align: center;
+}
+ table tr:hover{
+    background-color: rgb(62, 182, 238);
+}

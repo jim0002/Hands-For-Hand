@@ -1,0 +1,74 @@
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: azure;
+    margin-top: 10px;
+}
+.heading-table{
+    text-align: left;
+    background-color: gray;
+    position: sticky;
+}
+.heading-table p{
+    
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+table{
+    
+    width: 50%;
+    margin-bottom: 10px;
+    
+}
+th{
+    background-color: rgb(75, 77, 73);
+    color: white;
+    
+}
+td{
+    text-align: center;
+}
+ table tr:hover{
+    background-color: rgb(62, 182, 238);
+}
+#searchTable {
+    
+    width: 30%;
+    margin-bottom: 10px;
+    
+}
+#searchTable tr:hover{
+    background-color: rgba(241, 241, 241, 0);
+
+}
+
+.form {
+    border: 2px solid red;
+}
+
+.search{
+    align-content: center;
+}
+
+.submit{
+	background:#2ecc71;
+	width:125px;
+	padding-top:5px;
+	padding-bottom:5px;
+	color:white;
+	border-radius:4px;
+	border: #27ae60 1px solid;
+	
+	margin-top:20px;
+	margin-bottom:20px;
+	float:center;
+	margin-left:16px;
+	font-weight:800;
+	font-size:0.8em;
+  }
+  
+.submit:hover{
+	background:#2CC06B; 
+  }

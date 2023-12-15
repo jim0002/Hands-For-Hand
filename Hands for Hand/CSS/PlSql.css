@@ -1,0 +1,50 @@
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: azure;
+    margin-top: 10px;
+}
+.heading-table{
+    background-color: gray;
+    position: sticky;
+}
+.heading-table p{
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+table{
+    width: 100%;
+    margin-bottom: 10px;
+    
+}
+th{
+    background-color: greenyellow;
+    
+}
+td{
+    text-align: center;
+}
+ table tr:hover{
+    background-color: #02FE73;
+}
+.info{
+    
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.submit{
+    width: 200px;
+    height: 30px;
+    background-color: green;
+    color: white;
+}
+.submit:hover{
+    background-color: blue;
+    border: 2px solid green;
+}
+span{
+    color: red;
+}

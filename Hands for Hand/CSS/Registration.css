@@ -1,0 +1,46 @@
+body{
+    background-color: orange;
+}
+form{
+
+    background-color: white;
+    text-align: center;
+    width: 600px;
+    height: auto;
+    padding: 50px;
+   margin-left: auto;
+   margin-right: auto;
+   
+
+}
+
+span{
+    color: red;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: underline;
+    color: #5633FF;
+}
+.submit{
+    width: 200px;
+    height: 30px;
+    background-color: green;
+    color: white;
+}
+.submit:hover{
+    background-color: blue;
+    border: 2px solid green;
+}
+a{
+    text-decoration: none;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 20px;
+}
+a:hover{
+    text-decoration: underline;
+}
